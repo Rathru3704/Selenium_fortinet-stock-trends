@@ -1,6 +1,6 @@
 # Fetching Stock Data with Selenium and Plotting with Pandas and Matplotlib
 
-This project fetches Fortinet, Inc. (FTNT) stock data from Yahoo Finance using Selenium, processes the data using Pandas, and plots the stock prices for the last three months using Matplotlib. The plot is displayed directly in a Jupyter Notebook.
+This project fetches Fortinet, Inc. (FTNT) stock data from Yahoo Finance using Selenium, processes the data using Pandas, and plots the stock prices for the last twelve months using Matplotlib. The plot is displayed directly in a Jupyter Notebook.
 
 ## Prerequisites
 
